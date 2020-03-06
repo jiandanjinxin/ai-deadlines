@@ -1,17 +1,31 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+# title: AI Conference Deadlines # (Maintained by @abhshkdz)
+# # email: abhshkdz@vt.edu
+# description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+# author: Abhishek Das
 
-domain: "aideadlin.es"
-baseurl: ""
+# domain: "aideadlin.es"
+# baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
+# twitter_username: abhshkdz
+# twitter_hashtag: machinelearning
+# github_username: abhshkdz
+# github_repo: ai-deadlines
+
+# markdown: kramdown
+# ga_id: UA-36274081-2
+
+# include: ['_pages']
+# title: AI Deadlines
+# remark: CV-oriented
+
+description: Countdowns to top ML / CV / MIC conference and special issue deadlines
+author: Charles Wang
+maintainers: jiandanjinxin
+
+domain: "jiandanjinxin.github.io/ai-deadlines/"
+baseurl: "ai-deadlines"
+
+github_username: jiandanjinxin
 github_repo: ai-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
-
-include: ['_pages']
