@@ -12,6 +12,19 @@
   sub: CV
   note: '<b>NOTE</b>: First round submission deadline.'
 
+
+- title: MICCAI
+  year: 2020
+  id: miccai20
+  link: https://www.miccai2020.org/en/
+  deadline: '2020-03-17 23:59:59'
+  timezone: America/Los_Angeles
+  date: March 2-5, 2020
+  place: Snowmass village, Colorado, USA
+  sub: CV
+  note: '<b>NOTE</b>: First round submission deadline.'
+
+
 - title: AAAI
   year: 2020
   id: aaai20
